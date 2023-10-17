@@ -13,3 +13,5 @@ To view the auto generated EDA page, download the [output.html](https://github.c
 ## ApachBeam - [Colab Notebook](https://github.com/sjkchang/CMPE255-EDA-and-ApacheBeam/blob/master/ApacheBeam/ApacheBeam.ipynb)
 
 **Description**: Demonstration of apache beam features, including Pipeline IO, Composite Transforms, ParDo, Windowing, and Triggers.
+
+If you would like to view the inputs and outputs of each operation, the input files can be found [here](https://github.com/sjkchang/CMPE255-EDA-and-ApacheBeam/tree/master/ApacheBeam/inputFiles) and the output files can be found [here](https://github.com/sjkchang/CMPE255-EDA-and-ApacheBeam/tree/master/ApacheBeam/outputFiles)
