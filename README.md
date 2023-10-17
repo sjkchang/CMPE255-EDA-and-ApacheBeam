@@ -1,7 +1,15 @@
-# CMPE255-EDA-and-ApacheBeam
+# EDA colab and Apache Beam Colab
 
-## EDA
+## EDA - [Colab Notebook](https://github.com/sjkchang/CMPE255-EDA-and-ApacheBeam/blob/master/EDA/CoronaryArteryDisease_EDA.ipynb)
 
-## Auto EDA
+**Description**: Manual Exploritory Data Analysis on Coronary Artery Disease Dataset
 
-## Apache Beam
+## AutoEDA - [Colab Notebook](https://github.com/sjkchang/CMPE255-EDA-and-ApacheBeam/blob/master/AutoEDA/AutoEDA.ipynb)
+
+**Description**: Auto Exploritory Data Analysis on Credit Card Fraud Dataset
+
+To view the auto generated EDA page, download the [output.html](https://github.com/sjkchang/CMPE255-EDA-and-ApacheBeam/blob/master/AutoEDA/output.html) file and open it in your browser
+
+## ApachBeam - [Colab Notebook](https://github.com/sjkchang/CMPE255-EDA-and-ApacheBeam/blob/master/ApacheBeam/ApacheBeam.ipynb)
+
+**Description**: Demonstration of apache beam features, including Pipeline IO, Composite Transforms, ParDo, Windowing, and Triggers.
